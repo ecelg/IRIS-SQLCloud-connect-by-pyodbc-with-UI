@@ -1,0 +1,201 @@
+PatientID,Name,Insurance,PrimaryPhysician,CreditRating,HomePhone,HomeAdd_City,HomeAdd_State,HomeAdd_Zip
+1,Yu Sophia,Harvard Vanguard,Avery Angelo I.,72.75,977-377-9953,Fargo,IA,12926
+2,Presley Pam,Blue Cross,Ihringer Sam M.,87.27,744-992-6301,Hialeah,SC,96035
+3,Zampitello Peter,Tufts Health Care,Diavolo Jeff L.,37.67,907-325-8289,Jackson,KS,84265
+4,Zucherro Peter,Blue Cross,Browne Howard S.,82.58,901-747-6328,Albany,AK,59347
+5,Long Chris,Tufts Health Care,Peterson Imelda R.,54.53,359-972-9761,Xavier,MD,89332
+6,Eastman Julie,Blue Cross,Hanson Yan N.,42.42,832-603-7804,Xavier,KS,62783
+7,Hanson Julie,Harvard Vanguard,Hammel Amanda Q.,50.57,341-706-3723,Chicago,IL,56509
+8,Isaacs Kyra,Blue Cross,Thompson Wolfgang N.,76.49,287-801-4794,Fargo,SC,12527
+9,Press Martin,Tufts Health Care,Gold Umberto V.,86.04,700-439-6354,Boston,NE,79311
+10,McCoy Elmo,,Vivaldi Christen V.,47.12,753-234-6058,Ukiah,AK,97033
+11,Bachman Angela,Tufts Health Care,Vanzetti Jose A.,53.98,309-335-1314,Oak Creek,CO,68975
+12,Yeats Lisa,Blue Cross,Harrison Edward Y.,60.59,948-478-5560,Xavier,CT,71142
+13,Underman Roger,Blue Cross,Ihringer Phyllis B.,74.45,722-829-7597,Gansevoort,ND,11472
+14,Quine Emilio,Tufts Health Care,Browne Alfred X.,89.38,342-936-7294,Newton,HI,44359
+15,Ramsay Alfred,Blue Cross,Wells Quentin Q.,61.13,385-293-8411,Youngstown,IN,35776
+16,Ott Jane,Harvard Vanguard,Levinson Buzz I.,44.08,488-336-2018,Albany,KY,29306
+17,Sands Maria,Blue Cross,West Debby T.,85.28,451-754-6758,Xavier,IL,91569
+18,Yang Buzz,Blue Cross,Ramsay Zoe Z.,69.61,662-349-1884,Vail,SD,85422
+19,Ihringer Heloisa,Blue Cross,Jones Umberto G.,35.61,424-338-9578,Newton,IN,20925
+20,Edison Pat,,Isaacs Kristen E.,84.37,744-587-1684,Xavier,NY,61906
+21,Isaacs Lawrence,,Bach Liza Z.,34.24,968-397-9947,Chicago,GA,56484
+22,Goncharuk Dmitry,Harvard Vanguard,Larson Phyllis Y.,58.68,377-424-3803,Chicago,NE,46685
+23,Alton Linda,,Xenia Umberto A.,24.79,428-259-4357,Chicago,TN,71232
+24,O'Donnell Emma,Harvard Vanguard,Zevon George G.,87.96,922-628-1366,Newton,AK,41480
+25,Cannon Jose,Tufts Health Care,Cunningham Paul E.,47.69,694-897-7950,Ukiah,MD,94228
+26,Uberoth James,Harvard Vanguard,Leiberman Michelle O.,69.68,952-267-3956,Queensbury,SD,42642
+27,Umansky Brenda,Blue Cross,Eno Patricia R.,57.68,265-529-8141,Denver,NE,67559
+28,Young Ed,,Levinson George I.,44.34,430-805-8392,Newton,MI,32386
+29,Hills Howard,,Tweed Ed Q.,74.56,662-663-8042,Queensbury,VT,54844
+30,Klingman Chelsea,Tufts Health Care,Burroughs Patrick E.,57.59,648-243-8775,Jackson,NC,51773
+31,Ihringer Zeke,Tufts Health Care,Tsatsulin Thelma R.,47.07,900-602-6715,Boston,OH,35226
+32,Xenia Dmitry,Harvard Vanguard,Xiang Bob X.,37.87,610-330-5141,Reston,HI,57120
+33,Yang Norbert,Blue Cross,Feynman Emily K.,70.7,479-629-4177,Newton,AK,50745
+34,Allen Kevin,Harvard Vanguard,Yu Lawrence T.,55.94,473-847-5425,Larchmont,NC,36424
+35,Ihringer Alvin,Blue Cross,Willeke Wolfgang S.,67.21,537-282-1764,Islip,ND,71144
+36,Umansky Jane,Tufts Health Care,O'Donnell Danielle W.,58.86,517-729-2555,Washington,AL,16330
+37,Olsen Dmitry,Harvard Vanguard,Harrison Elvira X.,20.7,472-688-8341,Pueblo,NH,32787
+38,Long Elvira,Tufts Health Care,Smyth Valery Z.,64.57,260-658-5778,St Louis,AL,16713
+39,Gibbs Roger,Harvard Vanguard,Lennon Paul N.,79.99,611-753-5417,Newton,MT,33268
+40,Fives Lawrence,Blue Cross,Faust Violet D.,58.88,559-509-7814,Tampa,CO,21337
+41,Willeke Thelma,,Fives Maria R.,40.24,334-350-6650,Denver,CO,30728
+42,Eagleman Olga,Tufts Health Care,Press Jeff P.,81.77,717-769-9885,Washington,IL,22763
+43,Feynman Brian,Blue Cross,Uberoth Agnes D.,50.3,610-544-2704,Chicago,NH,71662
+44,Black Ralph,Harvard Vanguard,Umansky Xavier W.,32.11,377-922-7722,Chicago,DE,49655
+45,Sato Paul,Tufts Health Care,Yu Clint Q.,31.52,849-845-7061,Bensonhurst,NJ,25685
+46,Lee Alfred,,Djakovic Debra C.,85.49,775-396-6592,Miami,CT,83686
+47,Yu Stavros,,Basile Terry N.,89.46,390-231-8022,Youngstown,OH,71154
+48,Quilty Alfred,Blue Cross,Yeats Vincent T.,40.99,910-698-5023,Oak Creek,ME,16083
+49,Feynman Elmo,Harvard Vanguard,Quincy Quigley W.,31.26,747-968-5064,Queensbury,VA,83343
+50,Jones Maureen,Blue Cross,Tsatsulin Lisa F.,92.12,589-303-1740,Miami,IL,71944
+51,Hertz Molly,Tufts Health Care,Diavolo Chelsea Y.,59.18,726-883-5576,Chicago,MS,52839
+52,Rotterman Ralph,,O'Donnell Edward Q.,63.01,660-292-4062,Hialeah,NJ,21533
+53,Diavolo Maria,Harvard Vanguard,Van De Griek Michael S.,38.47,439-590-2000,Reston,AK,64805
+54,Uberoth Kyra,Blue Cross,Chang Paul A.,39.03,829-588-7538,Queensbury,IA,17494
+55,Frost Kirsten,Harvard Vanguard,Pantaleo Violet O.,37.71,919-981-1544,Pueblo,ME,71783
+56,LaRocca Stavros,Blue Cross,Yeats Susan O.,36.54,916-823-5346,Bensonhurst,VA,60154
+57,Vivaldi Orson,Harvard Vanguard,Quixote William T.,48.93,639-585-9145,Reston,SC,55166
+58,Uberoth Barb,Harvard Vanguard,Paraskiv Barb W.,71.62,629-931-6550,Zanesville,MA,43264
+59,Isaacs Hannah,,Wijnschenk Pat V.,85.75,589-640-5316,Albany,MD,79877
+60,Cheng Will,Blue Cross,DeSantis George U.,30.09,487-209-9364,Hialeah,WI,74806
+61,Hertz Hannah,Harvard Vanguard,Kelvin Bob Q.,60.1,948-493-2606,St Louis,TX,25264
+62,Ng Julie,,Adam Stuart M.,70.59,529-567-8448,Boston,MS,20384
+63,Koenig Alfred,Tufts Health Care,Ng James D.,27.84,493-623-9482,Reston,CO,68496
+64,Vivaldi Marvin,,Xerxes Alice D.,70.8,745-301-2298,Denver,TX,20406
+65,Ihringer Danielle,,Loveluck Phil F.,85.22,516-590-8357,Miami,CA,78221
+66,Clay Gertrude,Blue Cross,Faust Uma Z.,24.21,721-816-2455,Bensonhurst,MT,76893
+67,Johnson Kevin,Tufts Health Care,Allen Nataliya E.,43.39,291-796-4498,Islip,WA,60729
+68,Young Patrick,,Edison Agnes H.,82.83,236-854-3341,Denver,HI,51526
+69,Drabek Edward,Harvard Vanguard,Eisenstien Terry U.,29.99,638-278-9016,Boston,GA,44254
+70,Ravazzolo Pat,Tufts Health Care,Young Brian D.,86.83,741-436-6801,Washington,ME,72201
+71,Macrakis Angela,,Nelson Zelda Z.,59.17,264-501-1233,Elmhurst,UT,53800
+72,Harrison Hannah,,Edwards Debby E.,64.47,316-393-2611,Ukiah,VT,34890
+73,Pantaleo Greta,,Paladino Phyllis W.,40.05,861-822-6716,Islip,NH,23542
+74,Vivaldi Danielle,,Feynman Andrew E.,52.33,667-560-4180,Miami,IL,35854
+75,Tillem Usha,Tufts Health Care,Young Diane N.,48.86,438-472-3335,Vail,CT,19552
+76,Novello Angela,,Tillem Brian J.,28.1,345-556-8962,St Louis,AL,97204
+77,Roentgen Zeke,Tufts Health Care,Alton Terry I.,74.45,233-274-5562,Bensonhurst,MI,87726
+78,Rotterman Kirsten,,Van De Griek Lawrence I.,34.22,292-629-5915,Zanesville,CO,94842
+79,Young Kenny,Blue Cross,Djakovic Tara M.,94.21,387-918-3671,Xavier,SC,46799
+80,Malynko Fred,Blue Cross,Sato Norbert S.,30.49,530-290-1099,Miami,TX,98410
+81,DeLillo Usha,Tufts Health Care,Klingman Imelda D.,50.1,915-708-2406,Reston,ME,61822
+82,Underman Zoe,Tufts Health Care,Roentgen Umberto U.,90.6,439-323-5433,Denver,SD,20058
+83,Davis Emma,Tufts Health Care,Zimmerman Ashley W.,54.89,442-808-6703,Jackson,ND,90545
+84,Klingman Emilio,Tufts Health Care,O'Brien Bart F.,92.4,555-248-3039,Washington,AR,31646
+85,Loveluck Belinda,Harvard Vanguard,Presley Pam V.,33.82,461-991-7089,Fargo,OR,90038
+86,Isaacs Ashley,Blue Cross,Fripp Charles Q.,66.8,841-897-5418,Miami,AL,63391
+87,Diavolo Ed,Blue Cross,Feynman Nataliya K.,72.69,965-344-7986,Vail,WI,46062
+88,Ramsay John,,Gore Edgar F.,90.46,520-962-4589,Islip,LA,36920
+89,Tillem Ed,,Klingman Bill I.,79.21,537-241-1821,Youngstown,CO,72409
+90,Fives Jose,Blue Cross,Malkovich Janice Z.,79.02,688-211-7952,Bensonhurst,KS,55684
+91,O'Brien Josephine,Tufts Health Care,Harrison Michael Z.,44.3,984-939-2838,Zanesville,NE,82743
+92,Isaacs Al,Harvard Vanguard,Vanzetti Mo H.,54,745-819-3317,Xavier,NC,79687
+93,Ingleman Charles,Harvard Vanguard,Vonnegut Clint B.,72.48,477-763-4419,Jackson,CT,83080
+94,Brown Elmo,,Goldman Edgar Q.,30.95,591-508-1426,Larchmont,ME,65046
+95,Cooke Debra,,Moon Dan O.,55.09,673-618-6988,Pueblo,VT,63757
+96,Avery Ed,Tufts Health Care,Zimmerman Fred K.,81.28,209-584-5761,Hialeah,LA,62776
+97,Fives Al,Blue Cross,Long Sam L.,36.39,571-887-8372,Queensbury,VT,66728
+98,Goncharuk Pam,Harvard Vanguard,Basile Ashley O.,83.41,463-452-8256,Boston,AR,63899
+99,Ng Stavros,Tufts Health Care,Levinson Buzz E.,71.02,528-660-4082,Larchmont,MO,61519
+100,Monroe Belinda,Harvard Vanguard,Woo William D.,55.51,942-462-5033,Jackson,OK,45475
+101,Fripp Richard,Tufts Health Care,Zucherro Milhouse L.,69.65,388-791-9995,Boston,WA,43927
+102,West Dan,,Grabscheid Olga R.,75.41,711-497-5519,Oak Creek,RI,32339
+103,Ramsay Roberta,Blue Cross,Presley Laura X.,53.72,268-406-4779,Queensbury,MN,44676
+104,Quine Heloisa,,Ingleman Juanita G.,72.55,655-985-2143,Elmhurst,WA,16377
+105,Davis Imelda,Harvard Vanguard,Clay Barb N.,77.04,244-623-3145,Youngstown,AZ,91146
+106,Chadbourne Hannah,Tufts Health Care,Simpson Michelle V.,26.49,576-476-2315,Youngstown,SD,42137
+107,DeSantis John,Tufts Health Care,Grabscheid Emilio M.,49.42,982-349-9374,Fargo,ID,86314
+108,Nichols Joe,,Smyth Vincent H.,52.07,970-290-5620,Reston,SD,42874
+109,Ramsay Peter,Blue Cross,West Charlotte W.,24.49,713-411-2211,Reston,MS,64341
+110,Diavolo Brendan,Tufts Health Care,Underman David Z.,45.36,488-266-5651,Islip,NH,19232
+111,Ulman Dave,Blue Cross,Sands Peter C.,84.39,798-591-7904,Gansevoort,RI,78763
+112,Nagel Mark,Harvard Vanguard,Schaefer Mo D.,55.57,457-859-8398,Albany,TN,24440
+113,Townsend Aviel,,Van De Griek Marvin R.,78.03,476-551-4301,Hialeah,SC,72559
+114,Fripp Bart,Blue Cross,Lubbar Ted O.,79.53,641-266-9001,Gansevoort,SD,74775
+115,Jones Stuart,Blue Cross,Underman Mo B.,82.14,381-334-4505,Youngstown,GA,53028
+116,Edwards Tara,Harvard Vanguard,Solomon Elmo V.,52.85,403-386-6442,Hialeah,LA,88280
+117,Ingleman Sally,,Faust Quentin I.,79.63,659-879-1832,Zanesville,IL,25888
+118,Press Vincent,Harvard Vanguard,Young Sally N.,76.2,743-361-7526,Reston,UT,28387
+119,Young Jules,Blue Cross,Munt Ed A.,87.37,321-571-5101,Pueblo,IN,66384
+120,Beatty Jules,,Zucherro Barbara I.,89.14,652-251-1491,Chicago,ND,21976
+121,Ramsay Kevin,Tufts Health Care,Zampitello Lola M.,70.7,469-310-4817,Reston,KY,39789
+122,Ng Dmitry,,Burroughs Terry R.,70,278-351-2443,Ukiah,NJ,89971
+123,Duquesnoy Nellie,Harvard Vanguard,Cunningham Kyra N.,90.99,728-564-1337,Ukiah,CA,10620
+124,Gore Xavier,Tufts Health Care,Roentgen Kenny O.,59.26,410-888-7101,Hialeah,ME,73155
+125,Beatty David,Tufts Health Care,Houseman Thelma Q.,27.46,569-418-7665,Islip,AK,47398
+126,Koenig Wolfgang,Tufts Health Care,Bach William I.,82.76,227-631-1369,Elmhurst,MD,56420
+127,Uberoth John,Tufts Health Care,Gore Zoe A.,78.54,901-606-8151,Vail,IA,87756
+128,Feynman Aviel,,Xiang Angelo G.,48.49,493-323-4355,Vail,GA,30400
+129,Chadwick Richard,Blue Cross,Drabek Pat C.,91.78,838-667-7043,Jackson,SD,36686
+130,Pantaleo Christine,Blue Cross,Murray Lola S.,59.93,849-307-3618,Oak Creek,AZ,75824
+131,Yu Geoffrey,Harvard Vanguard,Quincy Diane X.,62.8,708-585-5866,Oak Creek,VT,31576
+132,Jackson Tara,Tufts Health Care,Bachman Rob T.,81.33,377-841-4537,Denver,FL,56847
+133,DeLillo Elmo,Blue Cross,Palmer Barbara L.,41.38,272-262-7424,Vail,KS,48909
+134,Umansky Brendan,,Yu Brendan I.,32.26,764-410-2617,Elmhurst,MN,78328
+135,Press Quigley,,Hanson William Z.,41.08,371-425-7750,Miami,IA,53255
+136,Beatty Orson,Tufts Health Care,Yang Debra L.,21.8,241-907-1067,Queensbury,IA,98772
+137,Schultz Milhouse,Harvard Vanguard,Murphy Quigley B.,26.29,459-926-9059,Queensbury,IN,28782
+138,Umansky Joshua,Tufts Health Care,Finn Rhonda M.,83.6,348-499-3025,Elmhurst,PA,79888
+139,Tesla Charlotte,,Xiang Kevin D.,39.39,728-636-9080,Youngstown,ME,10858
+140,Chesire Geoffrey,,Alton Elvis J.,77.7,362-483-9629,Pueblo,CA,29922
+141,Yu Violet,,Koenig Frances M.,82.3,404-572-6698,Newton,AK,97701
+142,Xenia Hannah,Harvard Vanguard,Bukowski Susan Q.,28.73,270-802-6354,Washington,OR,54084
+143,Kelvin Christine,Blue Cross,Edwards Stuart S.,67.97,259-420-1440,Boston,IL,76127
+144,Orlin Alice,,DeLillo Brendan C.,72.31,423-797-8028,Boston,NM,71740
+145,Frith Edward,Harvard Vanguard,Winters Dave S.,92.43,588-452-7502,Denver,NH,11813
+146,Pape Bill,Blue Cross,Xiang Vincent Y.,33.98,448-373-4807,Pueblo,CT,78136
+147,Cooper Bart,Tufts Health Care,Zevon George H.,35.43,268-354-9524,Bensonhurst,MA,25025
+148,Rotterman Kenny,Blue Cross,Campos Al K.,21.31,454-955-8761,Bensonhurst,AR,32786
+149,Edwards Bill,Blue Cross,Eisenstien Sally U.,53.15,230-953-5866,Gansevoort,CA,96578
+150,Ahmed Danielle,Harvard Vanguard,Feynman Martin U.,27.72,596-770-5474,Washington,MN,76679
+151,Gold John,,Jung Kenny H.,40.63,662-527-3395,Albany,GA,39812
+152,Basile Christen,Blue Cross,Xerxes Julie L.,21.92,548-383-9021,Islip,AK,30798
+153,Klingman George,Tufts Health Care,Martinez Greta E.,46.75,617-859-2317,Oak Creek,AZ,54966
+154,Larson Debby,Blue Cross,Umansky Andrew S.,84.05,570-954-2391,Islip,WY,99023
+155,Zucherro John,,Chang Bill N.,41.34,407-977-5141,Miami,CO,82052
+156,Williams Laura,,Tsatsulin Alvin A.,67.54,730-978-3135,Ukiah,WA,89125
+157,Underman Vincent,,Quine Geoffrey N.,52.95,539-946-6563,Youngstown,NY,64856
+158,Gibbs Pat,,Jones Thelma B.,93.29,733-899-6865,Albany,WI,58016
+159,Vivaldi Linda,Harvard Vanguard,Feynman Vincent V.,25.02,572-818-2675,Albany,VT,92795
+160,Zucherro Jose,Harvard Vanguard,Avery Brendan R.,32.7,863-591-7972,Ukiah,HI,86123
+161,Ng Rob,Blue Cross,Finn Phil A.,20.81,545-545-1285,Jackson,CA,86432
+162,Browning Pat,,Alton Kyra W.,54.14,988-296-1987,Miami,SC,14966
+163,Feynman Zeke,,Connors Aviel Q.,93.74,359-884-9191,Bensonhurst,LA,19427
+164,Novello Frances,Tufts Health Care,Ravazzolo Jocelyn U.,50.94,974-347-1446,Xavier,NY,83509
+165,Koenig Pam,Blue Cross,Klausner Kyra F.,83.27,500-271-6681,Gansevoort,IA,86725
+166,Yu Agnes,,Zimmerman Xavier L.,85.46,818-806-9417,Fargo,VT,14522
+167,Moon Heloisa,Blue Cross,Kratzmann Josephine S.,29.68,217-916-4032,Chicago,WI,55744
+168,Olsen Mario,Tufts Health Care,Petersburg Uma X.,52.09,986-797-1280,Xavier,ND,78639
+169,Klein Geoffrey,Blue Cross,Sorenson Angela A.,74.08,356-485-5737,Hialeah,KS,20011
+170,Isaacs Joshua,Tufts Health Care,Ulman Michael G.,22.1,349-378-5429,Youngstown,MN,95815
+171,Paraskiv Samantha,Harvard Vanguard,Schultz Dmitry J.,39.8,405-514-8089,Denver,HI,35811
+172,Isaacs Brenda,Blue Cross,Cooke Laura C.,43.28,235-468-5713,Reston,IL,65412
+173,Nathanson Michelle,Tufts Health Care,Jackson Nataliya H.,67.22,752-320-6658,Elmhurst,VA,65860
+174,Zevon Pam,,Taylor Juanita B.,73.15,265-906-8033,Ukiah,ME,95350
+175,Uberoth Alvin,,Frost Clint F.,89.3,281-975-4728,Washington,AL,62347
+176,Young Susan,Tufts Health Care,Young Aviel J.,69,669-952-8747,Vail,NH,71162
+177,Hanson Milhouse,,Emerson Valery Q.,22.32,503-464-4710,Youngstown,KY,60324
+178,Gallant Sally,,Yu Ralph W.,89.32,459-522-3723,Pueblo,MA,91657
+179,Noodleman Al,Harvard Vanguard,Hertz Diane Y.,78.67,266-889-6393,Larchmont,SC,57103
+180,Underman Michelle,Tufts Health Care,Tweed George Y.,76.67,921-597-7958,Chicago,ND,93501
+181,Klausner Patrick,Blue Cross,Schulte Geoffrey F.,70.6,415-445-8656,Vail,CT,52263
+182,Grabscheid Debra,Tufts Health Care,Ulman Ralph L.,71.28,834-648-5557,Albany,NV,82567
+183,Yeats Clint,Blue Cross,Djakovic Umberto X.,81.07,587-804-8392,Bensonhurst,OK,72110
+184,Clay Orson,Tufts Health Care,Umansky Roberta M.,27.46,784-823-2372,Bensonhurst,OK,32624
+185,Koenig Phil,Blue Cross,Cunningham Belinda K.,55.07,892-620-7284,Newton,WA,52160
+186,Willeke Jocelyn,Blue Cross,LaRocca Barbara Q.,81.63,255-204-1537,Oak Creek,TX,71478
+187,Ulman Patrick,Blue Cross,Jenkins Mario V.,87.77,690-352-4057,Chicago,OK,22837
+188,Nagel Will,Harvard Vanguard,Vonnegut Phyllis G.,65.83,249-639-1409,Miami,OR,25091
+189,Pybus Zoe,Harvard Vanguard,Underman James R.,53.86,889-243-2820,Islip,RI,20560
+190,Beatty Bill,,Fripp Emily X.,93.27,296-435-5855,Bensonhurst,TX,72740
+191,Gallant Bart,Blue Cross,Vonnegut Bart C.,68.45,269-326-2909,Elmhurst,WV,18546
+192,Drabek Norbert,,Isaacs Danielle Y.,69.97,685-585-3488,Denver,NE,99277
+193,Braam Phil,Blue Cross,Ott Bill Q.,52.89,600-860-8800,Boston,SD,91796
+194,Ahmed Alvin,Harvard Vanguard,Allen Debra B.,41.48,756-565-6613,Hialeah,MS,43210
+195,Ihringer Umberto,,Mastrolito James M.,37.35,436-875-6927,Larchmont,IN,39123
+196,Olsen Ed,Blue Cross,Xerxes Terry H.,43.42,846-629-8100,Denver,VT,84867
+197,Taylor Aviel,Blue Cross,Orwell Milhouse A.,22.94,450-607-2812,Vail,MT,13623
+198,Isaacs Chad,,Bachman Lydia K.,94.91,618-954-6184,Ukiah,TX,80649
+199,Van De Griek Fred,,Schultz Lola L.,51.66,555-973-3807,Denver,HI,50249
+200,Schaefer Lawrence,Tufts Health Care,Rotterman Dick B.,66.33,653-200-9601,Pueblo,MT,99854

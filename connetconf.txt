@@ -1,0 +1,1 @@
+{'hostname': 'k8s-64ea0e19-adaf019a-3e29981a9d-4e25128593a51604.elb.us-east-1.amazonaws.com', 'port': '1972', 'namespace': 'USER', 'login': 'SQLAdmin', 'password': 'Cloud2022!'}
