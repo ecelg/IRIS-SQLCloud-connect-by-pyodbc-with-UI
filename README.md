@@ -4,7 +4,7 @@ IRIS SQLCloud connect by pyodbc with UI<br>
 #### Hello everyone (maybe only me is reading),<br>
 
 I am sorry to let you know that I am new to Python (and also IRIS) ...<br>
-That's is the reason I satrted this mini project<br>
+That's is the reason I started this mini project<br>
 - to connect to IRIS by pyodbc
 - to do the basic query by UI
 - to learn how to write python (I am sorry I am no a good programmer)
