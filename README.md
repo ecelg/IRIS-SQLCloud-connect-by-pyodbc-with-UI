@@ -41,11 +41,13 @@ and there is a csv file storing a set for sample patient data
 
 Before running the code <br>
 ----------------------------------------------
-1. Python 3.x should be installed (recommended python 3.4-3.7, if you would like to use the irienative library. I found the wheel file for 3.8-3.9 also, but 3.10... sorry may need to wait.)<
+1. Python 3.x should be installed (recommended python 3.4-3.7, if you would like to use the irienative library. I found the wheel file for 3.8-3.9 also, but 3.10... sorry may need to wait.)
 2. The following libraries are used, please include them by (py -m pip install )
   - import tkinter
   - import pyodbc
   - import ast
+
+I am using Python 3.9, btw...<br>
 <br>
 
 Running the code <by>
@@ -67,7 +69,7 @@ To make it simple, I devied my code into three parts <br>
 
 #### Step2. Table creating and sample data uploading
  
-1. Input the Name of the table you are going to create 
+1. Input the Name of the table you are going to create (recommend "Patient" if you don't want to modify the code in Step 3)
 2. Click the Open button to import a .csv file
 3. A Create table script will be generated, you may modify it before clicking the Create Table button to create
 4. Click the Create Table button to create a table
@@ -79,5 +81,14 @@ To make it simple, I devied my code into three parts <br>
   
 #### Step3. Data query, insert, modify and export
 
+1. Input a Name e.g "T", Click Search
+2. Click on the search result to get the detail
+3. You may modify, insert (if no Patient ID is provided), and export the search result to .csv
+
+<br>
   
+![step3py](https://user-images.githubusercontent.com/107917928/175941661-1094364a-7f3a-4b96-b9d1-f91f0deb079d.png)
+  
+### Play around and enjoy!
+
 
