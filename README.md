@@ -53,7 +53,9 @@ Running the code <by>
 To make it simple, I devied my code into three parts <br>
   
 #### Step1. Connection setting and testing
-  
+
+![step1py](https://user-images.githubusercontent.com/107917928/175935176-03f64c20-fef3-49ef-b338-2df903dae8e7.png)
+
 #### Step2. Table creating and sample data uploading
   
 #### Step3. Data query, insert, modify and export
