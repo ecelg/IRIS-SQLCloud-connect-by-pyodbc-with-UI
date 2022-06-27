@@ -41,7 +41,6 @@ and there is a csv file storing a set for sample patient data
 
 Before running the code <br>
 ----------------------------------------------
-
 1. Python 3.x should be installed (recommended python 3.4-3.7, if you would like to use the irienative library. I found the wheel file for 3.8-3.9 also, but 3.10... sorry may need to wait.)<
 2. The following libraries are used, please include them by (py -m pip install )
   - import tkinter
@@ -49,4 +48,15 @@ Before running the code <br>
   - import ast
 
 
+Running the code <by>
+----------------------------------------------
+To make it simple, I devied my code into three parts <br>
+  
+#### Step1. Connection setting and testing
+  
+#### Step2. Table creating and sample data uploading
+  
+#### Step3. Data query, insert, modify and export
+
+  
 
