@@ -11,10 +11,10 @@ In this mini project, it contained two parts<br>
   - Run a Create table query
   - Upload a .csv file
 - Query the table by the UI wirtten by Python
-  - Select
+  - Select 
   - Insert
   - Update
-- Export the selected rows to .csv file
+  - Export the selected rows to .csv file
 
 
 Step1 <br>
