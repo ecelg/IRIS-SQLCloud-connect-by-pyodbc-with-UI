@@ -58,6 +58,8 @@ To make it simple, I devied my code into three parts <br>
 
 #### Step2. Table creating and sample data uploading
   
+![step2py](https://user-images.githubusercontent.com/107917928/175935627-a3f561c3-16f8-4a22-b374-93f48bfdbb6f.png)
+  
 #### Step3. Data query, insert, modify and export
 
   
