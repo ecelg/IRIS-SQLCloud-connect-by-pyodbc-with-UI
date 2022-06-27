@@ -1,5 +1,20 @@
 # IRIS-SQLCloud-connect-by-pyodbc-with-UI
-IRIS SQLCloud connect by pyodbc with UI
+IRIS SQLCloud connect by pyodbc with UI<br>
+
+Hello everyone (maybe only me is reading),<br>
+<br>
+I am sorry to let you know that I am new to Python (and also IRIS) ...<br>
+That's is the reason I satrted this mini project<br>
+<br><br>
+In this mini project, it contained two parts<br>
+- Deploy a table on the IRIS SQLCloud
+  - Run a Create table query
+  - Upload a .csv file
+- Query the table by the UI wirtten by Python
+  - Select
+  - Insert
+  - Update
+- Export the selected rows to .csv file
 
 
 Step1 <br>
